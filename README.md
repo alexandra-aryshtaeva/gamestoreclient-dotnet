@@ -1,1 +1,1 @@
-# gamestore.client
+# gamestore client
